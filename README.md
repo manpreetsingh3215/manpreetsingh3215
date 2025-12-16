@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Prerna</h1>
+<h1 align="center">Hi 👋, I'm Manpreet</h1>
 <h3 align="center">🚀 React Native Developer | Mobile App Engineer</h3>
 
 <p align="center">
