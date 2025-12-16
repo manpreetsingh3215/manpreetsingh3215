@@ -1,65 +1,174 @@
-<h1 align="center">Hi 👋, I'm Manpreet</h1>
-<h3 align="center">🚀 React Native Developer | Mobile App Engineer</h3>
+# Hi 👋, I'm Manpreet Singh
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=manpreetsingh3215&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <b>🚀 Expert React Native Developer | AI Expert | 9+ Years Experience | Full-stack Architect | tvOS Specialist</b>
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👨‍💻 About Me
 
-✨ Passionate **React Native Developer** with experience in building high-performance mobile apps for **iOS & Android**.  
-📱 Worked on **banking, fintech, e-commerce & content-based apps**.  
-⚡ Love clean architecture, smooth UI/UX & scalable code.
+I’m a **passionate and experienced mobile engineer** specializing in **React Native**, **Expo**, and **cross-platform development** for **iOS, Android, and Smart TV (tvOS)**.
+
+With **9+ years in tech** and **8+ years focused on mobile**, I build **scalable, secure, and high-performance applications** that deliver real business impact.
+
+I’ve worked across **FinTech, Banking, E-commerce, AI, Streaming, Healthcare, and IoT**, contributing to both **enterprise-scale apps** and **fast-moving startups**. I strongly believe in **ownership, clean architecture, automation, and performance-driven development**.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 📱 Mobile
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+**Mobile & Frontend**
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+* React Native, Expo, React
+* TypeScript, JavaScript
+* Redux, Zustand, TanStack Query
+* Tailwind CSS
 
-### ⚙️ Backend & DB
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+**Backend & Tools**
+
+* Node.js, GraphQL
+* Firebase
+* MongoDB, PostgreSQL (working knowledge)
+* Fastlane, Detox, Jest
+* Docker, Git
 
 ---
 
-## 💡 Core Skills
-- Mobile App Architecture
-- REST APIs Integration
-- Redux / Zustand
-- Performance Optimization
-- Firebase & Push Notifications
-- App Store & Play Store Deployment
+## 🌟 Featured Projects
+
+### 🏦 IDFC First Bank
+
+**Overview:** Secure digital banking app serving millions of users with account management, transfers, bill payments, and credit cards.
+
+**My Role:**
+
+* Built an **automated dispute & fraud-reporting flow** directly inside the app
+* Integrated multiple APIs to eliminate manual processes
+* Helped reduce operational costs for the bank
+
+**Tech Stack:** React Native, Redux, TypeScript, Jest
+
+**Challenges:**
+
+* Integrating with legacy banking systems
+* Maintaining strict security & compliance standards
+* Following enterprise-grade banking guidelines
+
+🔗 [Android](https://play.google.com/store/apps/details?id=com.idfcfirstbank.optimus) | [iOS](https://apps.apple.com/in/app/idfc-first-bank-mobilebanking/id1521443352)
+
+---
+
+### 🏦 Tonik Bank (Neobank)
+
+**Overview:** Mobile-first digital bank offering savings, deposits, payments, and financial tools.
+
+**My Role:**
+
+* Upgraded the app to the latest **React Native version**
+* Migrated and updated native & JS modules
+* Fixed critical bugs and crashes for production stability
+
+**Tech Stack:** React Native, Redux, TypeScript
+
+**Challenges:**
+
+* Updating custom native security libraries
+* Debugging complex production issues
+* Navigating large-scale banking flows safely
+
+🔗 [Android](https://play.google.com/store/apps/details?id=com.tonik.mobile) | [iOS](https://apps.apple.com/ph/app/tonik-bank-loans-deposits/id1541576007)
+
+---
+
+### 🌸 Ferns N Petals (UAE)
+
+**Overview:** E-commerce app for flowers, gifts, cakes, and personalized deliveries in the UAE.
+
+**My Role:**
+
+* Implemented country-specific ordering flows
+* Built gift checklist, quantity & pricing logic
+* Added currency conversion and shipping address handling
+
+**Tech Stack:** React Native, Redux, TypeScript
+
+**Challenges:**
+
+* Designing complex e-commerce flows
+* Handling multiple currencies
+* Integrating third-party payment & shipping SDKs
+
+🔗 [Android](https://play.google.com/store/apps/details?id=ae.fnp) | [iOS](https://apps.apple.com/ae/app/fnp-flowers-gifts-delivery/id1274924764)
+
+---
+
+### 📖 HelloBible (AI-Powered App)
+
+**Overview:** Bible reading app with devotionals, audio, and AI-powered interactions.
+
+**My Role:**
+
+* Built **AI chat features**
+* Implemented **text-to-speech** using advanced AI models
+* Optimized audio playback performance
+
+**Tech Stack:** React Native, Expo, Redux, TanStack Query
+
+**Challenges:**
+
+* AI model integration
+* Performance optimization for audio streaming
+* Cross-device UX consistency
+
+🔗 [iOS](https://apps.apple.com/us/app/hellobible-bible-chat/id6502768944) | [Android](https://play.google.com/store/apps/details?id=com.hellobible.app)
+
+---
+
+### 🎵 TopMusic
+
+**Overview:** Music streaming app with playlists and personalized recommendations.
+
+**My Role:**
+
+* Fixed critical bugs and crashes
+* Optimized performance for smoother playback
+* Implemented new UI/UX design
+
+**Tech Stack:** React Native, Expo, Redux, TanStack Query
+
+**Challenges:**
+
+* Understanding and refactoring legacy code
+* Improving performance without breaking existing flows
+
+🔗 [Android](https://play.google.com/store/apps/details?id=com.topchretien.topmusic)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manpreetsingh3215&show_icons=true&theme=react" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manpreetsingh3215&theme=react" />
 </p>
 
 ---
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30" />
-</a>
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" width="30" />
-</a>
-</p>
+* 📧 Email: **[preetrana883@gmail.com](mailto:preetrana883@gmail.com)**
+* 💼 LinkedIn: [Manpreet Singh](https://www.linkedin.com/in/manpreet-singh-37467556/)
+* 💻 GitHub: [manpreetsingh3215](https://github.com/manpreetsingh3215)
+* 🧠 Stack Overflow: [Profile](https://stackoverflow.com/users/8344220/manpreet-singh)
+
+---
+
+⭐ *If you like my work, consider starring my repositories!*
