@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>Senior React Native Developer | AI Expert | 9+ Years Experience | Full-stack Architect | tvOS Specialist</b>
+  <b>Senior React Native Developer | Expo | React JS | AI/LLM Integrations| Redux | Lead Roles | 9+ Years Experience | Full-stack Architect | tvOS Specialist</b>
 </p>
 
 ---
