@@ -12,11 +12,14 @@
 
 ## 👨‍💻 About Me
 
-I’m a **passionate and experienced mobile engineer** specializing in **React Native**, **Expo**, and **cross-platform development** for **iOS, Android, and Smart TV (tvOS)**.
+Senior Mobile Engineer with 9+ years of experience building, scaling, and modernizing high‑impact mobile
+and tvOS applications across fintech, banking, e‑commerce, and healthcare domains. Strong expertise in
+React Native architecture, performance optimization, and delivering production‑ready applications used by
+millions of users.
 
-With **9+ years in tech** and **8+ years focused on mobile**, I build **scalable, secure, and high-performance applications** that deliver real business impact.
-
-I’ve worked across **FinTech, Banking, E-commerce, AI, Streaming, Healthcare, and IoT**, contributing to both **enterprise-scale apps** and **fast-moving startups**. I strongly believe in **ownership, clean architecture, automation, and performance-driven development**.
+Experienced in integrating AI/LLM systems into mobile applications including voice-to-LLM pipelines, real-
+time audio streaming, and AI-driven chat experiences. Skilled in working with OpenAI, Claude, and other
+LLM APIs with focus on latency optimization, guardrails, and production-grade logging.
 
 ---
 
